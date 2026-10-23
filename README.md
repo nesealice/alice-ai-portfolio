@@ -14,7 +14,7 @@
 
 复用本人 Chrome 登录态，定时采集最近7天的销售、直播和短视频数据，保存截图，自动生成 Excel，或写入使用者自己配置的飞书多维表。默认无云端目标、无账号密码、无私人达人名单。按输出目标核验写入结果，保留区间值、失败原因和滚动差值口径。
 
-[查看项目与安装说明](apps/shopee-tracker/) · [查看模拟演示](https://nesealice.github.io/alice-ai-portfolio/apps/shopee-tracker/demo.html) · [下载源码包](apps/shopee-tracker/Shopee-Tracker-Public-Source-v1.0.0.zip)
+[下载Mac安装包](https://github.com/nesealice/alice-ai-portfolio/releases/download/shopee-tracker-v1.0.0/Shopee-Tracker-Mac-arm64-v1.0.0.zip) · [查看项目与安装说明](apps/shopee-tracker/) · [查看模拟演示](https://nesealice.github.io/alice-ai-portfolio/apps/shopee-tracker/demo.html) · [下载源码包](apps/shopee-tracker/Shopee-Tracker-Public-Source-v1.0.0.zip)
 
 ### Deep Dive Agent · 团队分析经验产品化
 
