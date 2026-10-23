@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-public",
+  "tool_tests_passed": 77,
+  "rendered_dom_tests_passed": 4,
+  "mac_tests_passed": 18,
+  "ui_excel_default_and_metadata_save_verified": true,
+  "synthetic_pipeline_excel_verified": true,
+  "packaged_chrome_self_test": true,
+  "private_markers_in_public_files": 0,
+  "bundled_targets": 0,
+  "bundled_output": "excel",
+  "private_live_data_in_public_package": false,
+  "public_account_live_collection_tested": false,
+  "ai_runtime_required": false,
+  "developer_id_notarized": false
+}
